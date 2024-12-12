@@ -1,0 +1,94 @@
+ProductID,Name,ListPrice,ProductSubcategoryID,AverageListPrice
+771,"Mountain-100 Silver, 38",3399.99,1,3387.49
+772,"Mountain-100 Silver, 42",3399.99,1,3387.49
+773,"Mountain-100 Silver, 44",3399.99,1,3387.49
+774,"Mountain-100 Silver, 48",3399.99,1,3387.49
+775,"Mountain-100 Black, 38",3374.99,1,3387.49
+776,"Mountain-100 Black, 42",3374.99,1,3387.49
+777,"Mountain-100 Black, 44",3374.99,1,3387.49
+778,"Mountain-100 Black, 48",3374.99,1,3387.49
+749,"Road-150 Red, 62",3578.27,2,3578.27
+750,"Road-150 Red, 44",3578.27,2,3578.27
+751,"Road-150 Red, 48",3578.27,2,3578.27
+752,"Road-150 Red, 52",3578.27,2,3578.27
+753,"Road-150 Red, 56",3578.27,2,3578.27
+954,"Touring-1000 Yellow, 46",2384.07,3,2384.07
+955,"Touring-1000 Yellow, 50",2384.07,3,2384.07
+956,"Touring-1000 Yellow, 54",2384.07,3,2384.07
+957,"Touring-1000 Yellow, 60",2384.07,3,2384.07
+966,"Touring-1000 Blue, 46",2384.07,3,2384.07
+967,"Touring-1000 Blue, 50",2384.07,3,2384.07
+968,"Touring-1000 Blue, 54",2384.07,3,2384.07
+969,"Touring-1000 Blue, 60",2384.07,3,2384.07
+947,HL Touring Handlebars,91.57,4,91.19
+809,ML Mountain Handlebars,61.92,4,91.19
+810,HL Mountain Handlebars,120.27,4,91.19
+812,ML Road Handlebars,61.92,4,91.19
+813,HL Road Handlebars,120.27,4,91.19
+739,"HL Mountain Frame - Silver, 42",1364.5,12,1364.5
+740,"HL Mountain Frame - Silver, 44",1364.5,12,1364.5
+741,"HL Mountain Frame - Silver, 48",1364.5,12,1364.5
+742,"HL Mountain Frame - Silver, 46",1364.5,12,1364.5
+748,"HL Mountain Frame - Silver, 38",1364.5,12,1364.5
+936,ML Mountain Pedal,62.09,13,73.43
+937,HL Mountain Pedal,80.99,13,73.43
+939,ML Road Pedal,62.09,13,73.43
+940,HL Road Pedal,80.99,13,73.43
+941,Touring Pedal,80.99,13,73.43
+680,"HL Road Frame - Black, 58",1431.5,14,1431.5
+706,"HL Road Frame - Red, 58",1431.5,14,1431.5
+717,"HL Road Frame - Red, 62",1431.5,14,1431.5
+718,"HL Road Frame - Red, 44",1431.5,14,1431.5
+719,"HL Road Frame - Red, 48",1431.5,14,1431.5
+720,"HL Road Frame - Red, 52",1431.5,14,1431.5
+721,"HL Road Frame - Red, 56",1431.5,14,1431.5
+837,"HL Road Frame - Black, 62",1431.5,14,1431.5
+838,"HL Road Frame - Black, 44",1431.5,14,1431.5
+839,"HL Road Frame - Black, 48",1431.5,14,1431.5
+840,"HL Road Frame - Black, 52",1431.5,14,1431.5
+909,ML Mountain Seat/Saddle,39.14,15,45.89
+910,HL Mountain Seat/Saddle,52.64,15,45.89
+912,ML Road Seat/Saddle,39.14,15,45.89
+913,HL Road Seat/Saddle,52.64,15,45.89
+915,ML Touring Seat/Saddle,39.14,15,45.89
+916,HL Touring Seat/Saddle,52.64,15,45.89
+885,"HL Touring Frame - Yellow, 60",1003.91,16,1003.91
+887,"HL Touring Frame - Yellow, 46",1003.91,16,1003.91
+888,"HL Touring Frame - Yellow, 50",1003.91,16,1003.91
+889,"HL Touring Frame - Yellow, 54",1003.91,16,1003.91
+890,"HL Touring Frame - Blue, 46",1003.91,16,1003.91
+891,"HL Touring Frame - Blue, 50",1003.91,16,1003.91
+892,"HL Touring Frame - Blue, 54",1003.91,16,1003.91
+893,"HL Touring Frame - Blue, 60",1003.91,16,1003.91
+817,HL Mountain Front Wheel,300.215,17,317.987
+820,HL Road Front Wheel,330.06,17,317.987
+825,HL Mountain Rear Wheel,327.215,17,317.987
+827,ML Road Rear Wheel,275.385,17,317.987
+828,HL Road Rear Wheel,357.06,17,317.987
+858,"Half-Finger Gloves, S",24.49,20,31.24
+859,"Half-Finger Gloves, M",24.49,20,31.24
+860,"Half-Finger Gloves, L",24.49,20,31.24
+861,"Full-Finger Gloves, S",37.99,20,31.24
+862,"Full-Finger Gloves, M",37.99,20,31.24
+863,"Full-Finger Gloves, L",37.99,20,31.24
+713,"Long-Sleeve Logo Jersey, S",49.99,21,51.99
+714,"Long-Sleeve Logo Jersey, M",49.99,21,51.99
+715,"Long-Sleeve Logo Jersey, L",49.99,21,51.99
+716,"Long-Sleeve Logo Jersey, XL",49.99,21,51.99
+881,"Short-Sleeve Classic Jersey, S",53.99,21,51.99
+882,"Short-Sleeve Classic Jersey, M",53.99,21,51.99
+883,"Short-Sleeve Classic Jersey, L",53.99,21,51.99
+884,"Short-Sleeve Classic Jersey, XL",53.99,21,51.99
+849,"Men's Sports Shorts, M",59.99,22,64.2757
+850,"Men's Sports Shorts, L",59.99,22,64.2757
+851,"Men's Sports Shorts, XL",59.99,22,64.2757
+867,"Women's Mountain Shorts, S",69.99,22,64.2757
+868,"Women's Mountain Shorts, M",69.99,22,64.2757
+869,"Women's Mountain Shorts, L",69.99,22,64.2757
+841,"Men's Sports Shorts, S",59.99,22,64.2757
+928,LL Mountain Tire,24.99,37,29.4266
+929,ML Mountain Tire,29.99,37,29.4266
+930,HL Mountain Tire,35,37,29.4266
+932,ML Road Tire,24.99,37,29.4266
+933,HL Road Tire,32.6,37,29.4266
+934,Touring Tire,28.99,37,29.4266
